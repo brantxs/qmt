@@ -1,0 +1,19 @@
+[out]
+path = "./"
+cc = "cc.csv"
+zh = "zh.csv"
+cj = "cj.csv"
+wt = "wt.csv"
+
+[file]
+path = "./m.txt"
+
+[zh]
+zjzh = "1111111"
+
+[freq]
+fq = "3/1"
+count = 200
+
+[server]
+url = "http://127.0.0.1:8196/i.php"
